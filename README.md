@@ -15,7 +15,7 @@ Machine Learning Models: Utilization of machine learning algorithms such as regr
 
 Model Evaluation: Assessment of model performance using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and accuracy of direction prediction.
 
-Prediction:Use trained models to make predictions on future Bitcoin prices.
+Prediction: Use trained models to make predictions on future Bitcoin prices.
 
 Dependencies:
 
