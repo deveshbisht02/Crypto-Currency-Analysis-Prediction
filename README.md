@@ -1,4 +1,4 @@
-# Crypto-Currency-Analysis-Prediction(Bitcoin)
+# Crypto-Currency-Analysis-Prediction
 Description:
 
 This project focuses on analyzing Bitcoin, a prominent cryptocurrency, and predicting its price movements using machine learning techniques. By leveraging historical data and various features, the goal is to provide insights into Bitcoin's behavior and potential future trends.
